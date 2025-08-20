@@ -1,3 +1,4 @@
+// make a node that stores one value a left pointer and a right pointer;    
 class Node {
   constructor(value) {
     this.value = value;
@@ -64,4 +65,5 @@ console.log(myTree.traverse(myTree.root,5));
 // we can add some more functionality
 // at first we should return
 // at last er made a succesfull demonstration of Tree 
+
 // further goal is to make inorder,preorder etc.
